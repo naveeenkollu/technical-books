@@ -1,8 +1,8 @@
 ### Code Refactoring
 
-| What's the book name ? | Who wrote this ? | Who can read ? |
-| ---------------------- | ---------------- | -------------- |
-| Dive into Refactoring  | Alexander Shvets | Beginner       |
+| What's the book name ?                                                      | Who wrote this ?        | Who can read ? |
+| --------------------------------------------------------------------------- | ----------------------- | -------------- |
+| Dive into Refactoring                                                       | Alexander Shvets        | Beginner       |
 
 ### Computer Science
 
@@ -12,12 +12,12 @@
 
 ### Design Patterns
 
-| What's the book name ?    | Who wrote this ? | Who can read ? |
-| ------------------------- | ---------------- | -------------- |
-| Dive into Design Patterns | Alexander Shvets | Beginner       |
+| What's the book name ?                                                      | Who wrote this ?        | Who can read ? |
+| --------------------------------------------------------------------------- | ----------------------- | -------------- |
+| Dive into Design Patterns                                                   | Alexander Shvets        | Beginner       |
 
 ### Systems Design
 
-| What's the book name ?  | Who wrote this ? | Who can read ? |
-| ----------------------- | ---------------- | -------------- |
-| System Design Interview | Alex Xu          | Beginner       |
+| What's the book name ?                                                      | Who wrote this ?        | Who can read ? |
+| --------------------------------------------------------------------------- | ----------------------- | -------------- |
+| System Design Interview                                                     | Alex Xu                 | Beginner       |

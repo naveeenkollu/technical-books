@@ -29,5 +29,17 @@
 | Design Patterns: Elements of Reusable Object-Oriented Software              | Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides| Beginner |
 | Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications | Chip Huyen | Intermediate |
 
+### Data Structures and Algorithms
 
-
+| Book Name                                   | Author(s)                                   | Difficulty    |
+|--------------------------------------------|---------------------------------------------|---------------|
+| Introduction to Algorithms                  | Thomas H. Cormen, Charles E. Leiserson, et al. | Advanced      |
+| Data Structures and Algorithms in Python    | Michael T. Goodrich, Roberto Tamassia, et al. | Intermediate  |
+| Algorithms, Part I and Algorithms, Part II  | Robert Sedgewick, Kevin Wayne                 | Advanced      |
+| Data Structures and Algorithms Made Easy     | Narasimha Karumanchi                          | Beginner      |
+| Cracking the Coding Interview                | Gayle Laakmann McDowell                       | Intermediate  |
+| The Algorithm Design Manual                  | Steven S. Skiena                             | Advanced      |
+| Data Structures and Algorithms in Java       | Robert Lafore                                | Intermediate  |
+| Algorithms Unlocked                          | Thomas H. Cormen                             | Intermediate  |
+| Algorithms, Part I and Algorithms, Part II  | Tim Roughgarden                              | Intermediate  |
+| Algorithm Design                             | Jon Kleinberg, Éva Tardos                     | Advanced      |

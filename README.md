@@ -42,4 +42,3 @@
 | Data Structures and Algorithms in Java       | Robert Lafore                                | Intermediate  |
 | Algorithms Unlocked                          | Thomas H. Cormen                             | Intermediate  |
 | Algorithms, Part I and Algorithms, Part II  | Tim Roughgarden                              | Intermediate  |
-| Algorithm Design                             | Jon Kleinberg, Éva Tardos                     | Advanced      |
